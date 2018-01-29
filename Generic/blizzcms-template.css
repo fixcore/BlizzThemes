@@ -43,13 +43,6 @@ fieldset{margin:0;min-width:0}input[type=search]::-ms-clear,input[type=search]::
 .Forums-footer{color:rgba(255,255,255,.3);font-size:.8125rem;margin-top:100px!important;text-align:center}
 .Forums-footer a{color:rgba(255,255,255,.5)!important}
 .Forums-footer a:hover{color:rgba(255,255,255,.7)!important}
-.Navbar{background-position:center 0;background-repeat:no-repeat}
-.Navbar.is-auto{background-color:#0f2a48}
-@media only screen and (min-width:768px){.Navbar{background-color:#0d1e30;background-image:url(../images/forums/fx_default.jpg)}
-.Navbar::after{background-color:rgba(255,255,255,.08);bottom:0;content:"";display:block;left:0;position:absolute;right:0;top:0}
-.glass-header .Navbar{background-color:#0d1e30;background-position:center bottom -40px;background-repeat:no-repeat}
-.glass-header .Navbar{border-bottom:1px solid rgba(255,255,255,.15)}
-.Navbar .Navbar-container{max-width:1600px}
 .Navbar-modalContent .nav-mobile-menu-title{background:#202636;border-bottom:1px solid rgba(255,255,255,.07);height:44px;line-height:44px;text-align:center;vertical-align:middle}
 .Navbar-modalContent .Icon,.Navbar-modalContent .Navbar-modalContent .menu-content .menu-item .Icon-profileLink,.Navbar-modalContent .User-menu .Icon-profileLink{background-image:url(../images/icons/icon-sprites-24-blue.png);background-position:-168px -144px;height:24px;margin:10px 0 0 10px;opacity:.3;position:absolute;width:24px}
 .Navbar-modalContent .menu-content .menu-userDetails{padding-top:.75rem}
@@ -373,7 +366,7 @@ fieldset{margin:0;min-width:0}input[type=search]::-ms-clear,input[type=search]::
 .Input--iconPrefix>input{padding-left:2.25rem}
 .Input--icon.Input--prefix{padding-left:2.25em}
 .Input--icon.Input--suffix{padding-right:2.25em}label.Control .Icon--input{position:absolute;top:50%;transform:translateY(-50%)}
-.Subnav{align-items:center;background-color:#0f2a48;background-image:url(../images/forums/fx_default.jpg);background-position:center -60px;background-repeat:no-repeat;box-shadow:inset 0 -1px 0 0 rgba(255,255,255,.15);display:none;font-size:0;height:40px;position:relative;z-index:1000}
+.Subnav{align-items:center;background-color:rgba(255, 255, 255, 0.05);background-repeat:no-repeat;box-shadow:inset 0 -1px 0 0 rgba(255,255,255,.15);display:none;font-size:0;height:40px;position:relative;z-index:1000}
 .Subnav:before{background-color:rgba(255,255,255,.08);content:"";height:100%;position:absolute;top:0;width:100%}
 .Author-avatar:after,.Dropdown-arrow{content:''}
 .Subnav>.Container,.Subnav>.Forums-footer,.Subnav>.LoginPlaceholder,.Subnav>.TopicForm{-ms-flex-align:center;align-items:center;display:-ms-flexbox;display:flex;-ms-flex:1 0 auto;flex:1 0 auto;height:100%;position:relative;top:-1px}
@@ -414,6 +407,7 @@ fieldset{margin:0;min-width:0}input[type=search]::-ms-clear,input[type=search]::
 .Author-avatar:hover:after{background-color:rgba(255,255,255,.05)}
 .Author-avatar.Author-avatar--default:after{display:none}
 .Author-avatar.hasNoProfile img{image-rendering:auto}
+.Author-avatar.hasProfile img{image-rendering:auto}
 .Author-details{display:-ms-flexbox;display:flex;-ms-flex:1 1 auto;flex:1 1 auto;-ms-flex-direction:column;flex-direction:column;margin-left:1rem}
 .Author-name{color:#fff;font-weight:400;word-break:break-word}
 .Author-name--profileLink:hover,.TopicPost-body .underline,.TopicPost-moderateBody .underline{text-decoration:underline}

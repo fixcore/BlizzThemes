@@ -31,8 +31,6 @@ body.Theme--wow{background:url(../images/background-fx-top.jpg) center -200px no
 .Theme--wow .Input>input:focus~.Input-border,.Theme--wow .Input>input:focus~.Search-option,.Theme--wow .Input>input:focus~.Topic-button-report{background-color:#000;border:1px solid #f8b700;box-shadow:0 0 0 1px #000}
 .Theme--wow .Input>.Icon,.Theme--wow .Input>.Navbar-modalContent .menu-content .menu-item .Icon-profileLink,.Theme--wow .Input>.User-menu .Icon-profileLink{background-image:url(../images/icons/icon-sprites-24-white.png);height:24px;width:24px}
 .Theme--wow .Input-border{background-color:#000;border:1px solid #504137;border-radius:0;box-shadow:0 0 0 1px #000}
-.Theme--wow .Author-avatar img{image-rendering:-moz-crisp-edges;image-rendering:-webkit-crisp-edges;image-rendering:pixelated;image-rendering:crisp-edges;-ms-interpolation-mode:nearest-neighbor}
-.Theme--wow .Author-avatar{background-image:url(../images/avatars/wow/avatar-wow-default.png)}
 .Theme--wow .Welcome{font-family:wow,Blizzard,sans-serif}
 .Theme--wow .Welcome-logo{top:20px}
 .Theme--wow .Welcome-text{font-size:1.25rem}

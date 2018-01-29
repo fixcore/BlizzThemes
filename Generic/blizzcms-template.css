@@ -381,7 +381,7 @@ fieldset{margin:0;min-width:0}input[type=search]::-ms-clear,input[type=search]::
 .Jumbotron--thinBottom{padding-bottom:0}
 .Jumbotron--welcome{background-color:#1d70b9}
 .Jumbotron.is-hidden{display:none}
-.Card,.Characters .Author,.ForumCard{background-color:rgba(255,255,255,.05);border-color:rgba(255,255,255,.15);border-style:solid;border-width:0 0 1px;color:rgba(255,255,255,.7);display:-ms-flexbox;display:flex;-ms-flex:0 0 auto;flex:0 0 auto;-ms-flex-direction:column;flex-direction:column;margin:0;max-width:100%;min-height:0;padding:0;position:relative;text-decoration:none}
+.Characters .Author,.ForumCard{background-color:rgba(255,255,255,.05);border-color:rgba(255,255,255,.15);border-style:solid;border-width:0 0 1px;color:rgba(255,255,255,.7);display:-ms-flexbox;display:flex;-ms-flex:0 0 auto;flex:0 0 auto;-ms-flex-direction:column;flex-direction:column;margin:0;max-width:100%;min-height:0;padding:0;position:relative;text-decoration:none}
 .Card:hover,.ForumCard:hover{background-color:rgba(255,255,255,.1);color:#fff}
 .Card--content,.Card-content,.ForumCard--content{display:-ms-flexbox;display:flex;-ms-flex-direction:row;flex-direction:row;padding:1rem}
 .Card.Card--content{padding:1rem}

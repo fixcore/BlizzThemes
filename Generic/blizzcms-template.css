@@ -37,7 +37,7 @@ fieldset,img,legend{border:0}fieldset,legend,td,th,ul{padding:0}[role=main],sub,
 @font-face{font-family:'Open Sans';font-style:italic;font-weight:300;src:url(../../core/fonts/opensans/opensans-lightitalic.woff) format('woff'),url(../../core/fonts/opensans/opensans-lightitalic.ttf) format('truetype'),url(../../core/fonts/opensans/opensans-lightitalic.woff2) format('woff2'),url(../../core/fonts/opensans/opensans-lightitalic.svg#opensans/opensans-lightitalic) format('svg')}
 @font-face{font-family:Futura;font-style:normal;font-weight:400;src:url(../../core/fonts/f014015d/f014015d.woff) format('woff'),url(../../core/fonts/f014015d/f014015d.ttf) format('truetype'),url(../../core/fonts/f014015d/f014015d.woff2) format('woff2'),url(../../core/fonts/f014015d/f014015d.svg#f014015d/f014015d) format('svg')}
 html{box-sizing:border-box;font-size:16px;-webkit-tap-highlight-color:transparent}*,:after,:before{box-sizing:inherit}
-body{margin:0;background-color:#0f2a48;background-image:url(../images/forums/fx_default.jpg);background-position:center -200px;background-repeat:no-repeat;font-size:1.0625rem}body.preload *{transition:none!important}
+body{margin:0;background-color:#0f2a48;background-image:url(../images/forums/fx_default.jpg);background-position:center -200px;background-repeat:no-repeat;font-size:1.0625rem}
 fieldset{margin:0;min-width:0}input[type=search]::-ms-clear,input[type=search]::-ms-reveal{display:none}@media only screen and (min-width:961px){[role=main]{top:0}}
 .Overlay-element{bottom:0;left:0;position:absolute;right:0;top:0;z-index:1}
 .Forums-footer{color:rgba(255,255,255,.3);font-size:.8125rem;margin-top:100px!important;text-align:center}

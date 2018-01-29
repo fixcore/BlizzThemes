@@ -37,7 +37,7 @@ body.Theme--wow{background:url(../images/background-fx-top.jpg) center -200px no
 .Theme--wow .Welcome-logo{top:20px}
 .Theme--wow .Welcome-text{font-size:1.25rem}
 .Theme--wow .Welcome-heading{margin-top:1rem}
-.Theme--wow .Welcome-logo{left:-25px;top:30px}
+.Theme--wow .Welcome-logo{left:-25px;top:30px;height:150px}
 .Theme--wow .Welcome-text{font-size:1.875rem;line-height:1.2;margin-top:30px}
 .Theme--wow .Community-header{background-color:#353e15;background-image:url(../images/fx-mobile.jpg)}
 .Theme--wow .Community-header{background-image:url(../images/fx-glass.jpg)}

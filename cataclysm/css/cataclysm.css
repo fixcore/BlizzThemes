@@ -111,3 +111,5 @@ body.cataclysm{background:url(../images/background-fx-top.jpg) center -200px no-
 .cataclysm .Topic-button--solutionPost .Icon-next{background-image:url(../images/icons/icon-sprites-16-wow-gold.png);height:16px;width:16px}
 .cataclysm .Topic-button--solutionPost:hover .Icon-next{background-image:url(../images/icons/icon-sprites-16-white.png);height:16px;width:16px}
 .cataclysm .Post-actions .Post-button{border-radius:0}
+@font-face{font-family:'Lobster';font-style:normal;font-weight:400;src:local("Lobster Regular"),local("Lobster-Regular"),url("../fonts/Lobster-Regular.ttf") format("truetype")}
+.cataclysm .Project-logo{font-family:'Lobster';font-size:30px;color:#fff;}

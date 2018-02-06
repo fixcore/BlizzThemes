@@ -1,6 +1,6 @@
-body.cataclysm{background:url(../images/background-fx-top.jpg) center -200px no-repeat,url(../images/background-fx-repeat.jpg) center 1800px repeat-y #1a0c01}@media only screen and (max-width:800px){body.cataclysm{background-position:center -164px}}
-.cataclysm a{color:#00d683}
-.cataclysm a:hover{color:#fff}
+body.cataclysm{background:url(../images/background-fx-top.jpg) center -20px no-repeat,url(../images/background-fx-repeat.jpg) center 1800px repeat-y #1a0c01}@media only screen and (max-width:800px){body.cataclysm{background-position:center -164px}}
+.cataclysm a{color:#979797}
+.cataclysm a:hover{color:#cbcbcb}
 .cataclysm .Navbar-modalContent .menu-content .Community-header-menu{background-color:#3e0001;background-image:url(../images/fx-mobile.jpg)}
 .cataclysm .Navbar-modalContent .menu-content .Community-logo{top:calc(50% - 50px)}
 .cataclysm .Form-control{border-radius:2px}
@@ -35,8 +35,8 @@ body.cataclysm{background:url(../images/background-fx-top.jpg) center -200px no-
 .cataclysm .Welcome-logo{top:20px}
 .cataclysm .Welcome-text{font-size:1.25rem}
 .cataclysm .Welcome-heading{margin-top:1rem}
-.cataclysm .Welcome-logo{left:-25px;top:30px;height:150px}
-.cataclysm .Welcome-text{font-size:1.875rem;line-height:1.2;margin-top:30px}
+.cataclysm .Welcome-logo{left:-25px;top:30px;height:165px}
+.cataclysm .Welcome-text{font-size:1.875rem;line-height:1.2;margin-top:30px;font-family:wow,Blizzard,sans-serif}
 .cataclysm .Community-header{background-color:#190b00;background-image:url(../images/fx-mobile.jpg)}
 .cataclysm .Community-header{background-image:url(../images/fx-glass.jpg)}
 .cataclysm .Search-controls .Search-button .Icon,.cataclysm .Search-controls .Search-button .Navbar-modalContent .menu-content .menu-item .Icon-profileLink,.cataclysm .Search-controls .Search-button .User-menu .Icon-profileLink{background-image:url(../images/icons/icon-sprites-32-wow-gold.png);background-position:-160px -32px;height:32px;width:32px}
@@ -68,8 +68,8 @@ body.cataclysm{background:url(../images/background-fx-top.jpg) center -200px no-
 .cataclysm .ForumCategory-button--collapse{border-radius:0}
 .cataclysm .ForumCategory-button--collapse .Icon,.cataclysm .ForumCategory-button--collapse .Navbar-modalContent .menu-content .menu-item .Icon-profileLink,.cataclysm .ForumCategory-button--collapse .User-menu .Icon-profileLink{background-image:url(../images/icons/icon-sprites-24-wow-gold.png);height:24px;width:24px}@media only screen and (min-width:641px){.ForumCategory-header{margin-top:.25rem;padding-left:2rem;padding-right:2rem}
 .cataclysm .ForumCard-heading{color:#fff}
-.cataclysm .ForumCard-heading{font-family:Morpheus,Blizzard,sans-serif}
-.cataclysm .ForumCards .ForumCard{width:calc((100% / 3) - 1.25rem)}}
+.cataclysm .ForumCard-heading{font-family:wow,Blizzard,sans-serif}
+.cataclysm .ForumCards .ForumCard{width:calc((100% / 3) - 1.25rem);box-shadow:0 0 0 1px #000}
 .cataclysm .ForumTopic-type .Icon,.cataclysm .ForumTopic-type .Navbar-modalContent .menu-content .menu-item .Icon-profileLink,.cataclysm .ForumTopic-type .User-menu .Icon-profileLink{background-image:url(../images/icons/icon-sprites-24-wow-gold.png);height:24px;width:24px}
 .cataclysm .ForumTopic.is-spam .ForumTopic-type .Icon,.cataclysm .ForumTopic.is-spam .ForumTopic-type .Navbar-modalContent .menu-content .menu-item .Icon-profileLink,.cataclysm .ForumTopic.is-spam .ForumTopic-type .User-menu .Icon-profileLink{background-image:url(../images/icons/icon-sprites-24-wow-gold.png);height:24px;width:24px}
 .cataclysm .ForumTopic--featured{background-color:rgba(248,183,0,.15)}
@@ -112,4 +112,4 @@ body.cataclysm{background:url(../images/background-fx-top.jpg) center -200px no-
 .cataclysm .Topic-button--solutionPost:hover .Icon-next{background-image:url(../images/icons/icon-sprites-16-white.png);height:16px;width:16px}
 .cataclysm .Post-actions .Post-button{border-radius:0}
 @font-face{font-family:'Lobster';font-style:normal;font-weight:400;src:local("Lobster Regular"),local("Lobster-Regular"),url("../fonts/Lobster-Regular.ttf") format("truetype")}
-.cataclysm .Project-logo{font-family:'Lobster';font-size:30px;color:#fff;}
+.cataclysm .Project-logo{font-family:Morpheus;font-size:30px;color:#fff;}

@@ -43,7 +43,7 @@ body.xavius{background:url(../images/background-fx-top.jpg) center -200px no-rep
 .xavius .Search-controls .Search-button:hover .Icon,.xavius .Search-controls .Search-button:hover .Navbar-modalContent .menu-content .menu-item .Icon-profileLink,.xavius .Search-controls .Search-button:hover .User-menu .Icon-profileLink{background-image:url(../images/icons/icon-sprites-32-white.png);height:32px;width:32px}
 .xavius .Search-content .Highlighted-keyword{background-color:#f8b700}
 .xavius .Search-forum-dropdown,.xavius .Topic-button--reportDetail{background-color:transparent;color:#fff;font-family:Blizzard,sans-serif}
-.xavius .Search-option:after,.xavius .Topic-button-report:after{background-image:url(../images/icons/icon-sprites-32-red.png);height:32px;width:32px}
+.xavius .Search-option:after,.xavius .Topic-button-report:after{background-image:url(../images/icons/icon-sprites-32-brown.png);height:32px;width:32px}
 .xavius .Search-option,.xavius .Topic-button-report{background-color:#000;border:1px solid #504137;border-radius:0;color:#fff}
 .xavius .Search-option:hover,.xavius .Topic-button-report:hover{background-color:#000;border-color:#a47c1c;box-shadow:none}
 .xavius .Pagination-button--prev .Icon--16{background-image:url(../images/icons/icon-sprites-16-gold.png);height:16px;width:16px}

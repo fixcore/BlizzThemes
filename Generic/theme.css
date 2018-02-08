@@ -55,7 +55,7 @@ body.Theme--wow{background:url(../images/background-fx-top.jpg) center -200px no
 .Theme--wow .Topic-pagination--footer .Pagination-button--next .Icon--16{background-image:url(../images/icons/icon-sprites-24-gold.png);height:24px;width:24px}
 .Theme--wow .Topic-pagination--footer .Pagination-button--prev .Icon--16{background-image:url(../images/icons/icon-sprites-24-gold.png);height:24px;width:24px}
 .Theme--wow .Pagination-footer .Pagination-button--next .Button-content,.Theme--wow .Pagination-footer .Pagination-button--onlyNext .Button-content,.Theme--wow .Pagination-footer .Pagination-button--prev .Button-content{font-size:1.25rem}
-.Theme--wow .BanUser .header-2 .Game-logo,.Theme--wow .Forum-heading .Game-logo,.Theme--wow .Search-heading .Game-logo,.Theme--wow .Topic-heading .Game-logo{background-image:url(../images/logo/small-logo.png)}
+.Theme--wow .BanUser .header-2 .Game-logo,.Theme--wow .Forum-heading .Game-logo,.Theme--wow .Search-heading .Game-logo,.Theme--wow .Topic-heading .Game-logo{background-image:url(../images/small-logo.png)}
 .Theme--wow .BanUser .header-2,.Theme--wow .Forum-heading,.Theme--wow .Search-heading,.Theme--wow .Topic-heading{font-family:wow,Blizzard,sans-serif;font-weight:100}
 .Theme--wow .Community-button--search,.Theme--wow .Forum-button{border-radius:0;box-shadow:0 0 0 1px #000;font-family:Blizzard,sans-serif;text-transform:uppercase}
 .Theme--wow .Forum-button--new,.Theme--wow .Forum-button--new.is-focus,.Theme--wow .Forum-button--new:focus,.Theme--wow .Forum-button--new:hover{background-color:rgba(159,22,0,.6);border-color:#ea3012;color:#f8b700}
